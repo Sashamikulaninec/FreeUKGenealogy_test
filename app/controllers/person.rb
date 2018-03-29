@@ -28,6 +28,5 @@ end
 
   p2 = Person.new('John', 'Smith')
   p2.print_name
-  o = "ccxc"
 
 
